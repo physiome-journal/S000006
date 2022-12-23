@@ -1,0 +1,57 @@
+version: 1
+project:
+  title: Superimposition of the cramped and relieved states
+  authors:
+    - name: Kazuyo Tasaki
+      affiliations:
+        - >-
+          Department of Physiology, Anatomy & Genetics, Medical Sciences
+          Division, University of Oxford, United Kingdom
+      corresponding: true
+      email: kazuyo.tasaki@dpag.ox.ac.uk
+    - name: Penelope J. Noble
+      affiliations:
+        - >-
+          Department of Physiology, Anatomy & Genetics, Medical Sciences
+          Division, University of Oxford, United Kingdom
+    - name: Alan Garny
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Paul R. Shorten
+      affiliations:
+        - Institute of Agricultural Research, New Zealand
+    - name: Nima Afshar
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Denis Noble
+      affiliations:
+        - >-
+          Department of Physiology, Anatomy & Genetics, Medical Sciences
+          Division, University of Oxford, United Kingdom
+      corresponding: true
+      email: kazuyo.tasaki@dpag.ox.ac.uk denis.noble@dpag.ox.ac.uk
+  keywords:
+    - Skeletal muscle model
+    - muscle fatigue
+    - muscle cramp
+    - Ca2+  influx
+    - K+  wash-out of
+    - Ca2+  efflux
+    - Na+- Ca2+  exchanger.
+  open_access: true
+  license: CC-BY-4.0
+site:
+  projects:
+    - slug: S000006
+      path: .
+  nav: []
+  actions:
+    - title: paper
+      url: Kazuyo2020PhysiomeS000006.pdf
+      static: true
+    - title: omex
+      url: Kazuyo2020PhysiomeS000006.omex
+      static: true
+    - title: primary
+      url: https://doi.org/unknown
+  title: Superimposition of the cramped and relieved states
