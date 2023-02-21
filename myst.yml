@@ -29,7 +29,7 @@ project:
           Department of Physiology, Anatomy & Genetics, Medical Sciences
           Division, University of Oxford, United Kingdom
       corresponding: true
-      email: kazuyo.tasaki@dpag.ox.ac.uk denis.noble@dpag.ox.ac.uk
+      email: denis.noble@dpag.ox.ac.uk
   keywords:
     - Skeletal muscle model
     - muscle fatigue
