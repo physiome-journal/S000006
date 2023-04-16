@@ -6,7 +6,7 @@ project:
     investigating muscle contraction and cramp, in which calcium regulatory
     networks are involved, using the extended model in comparison with the
     original model.
-  thumbnial: thumbnail.png
+  thumbnail: thumbnail.png
   authors:
     - name: Kazuyo Tasaki
       affiliations:
