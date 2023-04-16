@@ -1,6 +1,12 @@
 version: 1
 project:
   title: Model of skeletal muscle cramp and its reversal
+  description: >-
+    We reproduce muscle cramp, as well as its prevention and reversal, by
+    investigating muscle contraction and cramp, in which calcium regulatory
+    networks are involved, using the extended model in comparison with the
+    original model.
+  thumbnial: thumbnail.png
   authors:
     - name: Kazuyo Tasaki
       affiliations:
