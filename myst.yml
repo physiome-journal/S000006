@@ -57,10 +57,10 @@ project:
     - Skeletal muscle model
     - muscle fatigue
     - muscle cramp
-    - Ca2+ influx
-    - K+ wash-out of
-    - Ca2+ efflux
-    - Na+- Ca2+ exchanger
+    - Ca²⁺ influx
+    - K⁺ wash-out of
+    - Ca²⁺ efflux
+    - Na⁺ - Ca²⁺ exchanger
   open_access: true
   license: CC-BY-4.0
   numbering:
