@@ -35,6 +35,24 @@ project:
           Division, University of Oxford, United Kingdom
       corresponding: true
       email: denis.noble@dpag.ox.ac.uk
+  editors:
+    - name: Karin Lundengård
+      orcid: 0000-0001-7600-8218
+      role: Editor
+      affiliations:
+        - >-
+          Integrative Systems Biology, Department of Biomedical Engineering,
+          Linköping University, Linköping, Sweden
+    - name: Anand K. Rampadarath
+      orcid: 0000-0001-8830-6212
+      role: Curator
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  history:
+    - date: 2020/08/25
+      type: accepted
+    - date: 2020/08/28
+      type: published
   keywords:
     - Skeletal muscle model
     - muscle fatigue
