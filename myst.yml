@@ -76,10 +76,6 @@ project:
   doi: 10.36903/physiome.12871364
 site:
   title: Model of skeletal muscle cramp and its reversal
-  projects:
-    - slug: S000006
-      path: .
-  nav: []
   actions:
     - title: paper
       url: Kazuyo2020PhysiomeS000006.pdf
@@ -89,3 +85,5 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.36903/physiome.12885590
+  domains:
+    - physiome-S000006.curve.space
